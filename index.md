@@ -7,7 +7,6 @@ puppeteer:
 export_on_save:
     html: true
     puppeteer: true
-id: "plano"
 ---
 
 Em construção!
